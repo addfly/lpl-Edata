@@ -1,0 +1,20 @@
+{
+  "name": "lpl-Edata",
+  "version": "1.0.0",
+  "description": "LPL的数据可视化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addfly/lpl-Edata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addfly/lpl-Edata/issues"
+  },
+  "homepage": "https://github.com/addfly/lpl-Edata#readme"
+}
